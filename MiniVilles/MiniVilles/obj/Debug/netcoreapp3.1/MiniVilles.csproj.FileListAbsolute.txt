@@ -1,0 +1,4 @@
+C:\Users\Oscar_2\Desktop\Repos\MiniVilles\MiniVilles\obj\Debug\netcoreapp3.1\MiniVilles.csprojAssemblyReference.cache
+C:\Users\Oscar_2\Desktop\Repos\MiniVilles\MiniVilles\obj\Debug\netcoreapp3.1\MiniVilles.AssemblyInfoInputs.cache
+C:\Users\Oscar_2\Desktop\Repos\MiniVilles\MiniVilles\obj\Debug\netcoreapp3.1\MiniVilles.AssemblyInfo.cs
+C:\Users\Oscar_2\Desktop\Repos\MiniVilles\MiniVilles\obj\Debug\netcoreapp3.1\MiniVilles.csproj.CoreCompileInputs.cache
